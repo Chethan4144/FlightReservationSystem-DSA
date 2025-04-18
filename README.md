@@ -1,0 +1,1 @@
+The Flight Reservation System is a Java-based application that allows users to search for flights, book seats, manage reservations, and handles waitlisting when flights are full. The system includes features for both users and administrators, with a priority-based waitlist management system.
